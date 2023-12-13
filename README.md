@@ -17,3 +17,6 @@ In this project, you will dive into a large sales dataset to extract valuable in
 • SALES
 • CITY
 • HOUR
+
+# Final Dashboard
+![image](https://github.com/HarshaVardhan024/Sales_data_analysis_dashboard_project/assets/149884159/ae062f41-465f-4855-8f0a-601dd0cc3778)
